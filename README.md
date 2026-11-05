@@ -4,6 +4,6 @@
 
 **플레이: https://dossykjh.github.io/seed-garden/**
 
-**안드로이드 앱(홈 화면 위젯·알림): https://dossykjh.github.io/seed-garden/seed-garden.apk** — 폰에서 받아 설치합니다('출처를 알 수 없는 앱' 허용 필요).
+**안드로이드 앱(홈 화면 위젯·알림): https://dossykjh.github.io/seed-garden/seed-garden.apk** — 폰에서 받아 설치합니다('출처를 알 수 없는 앱' 허용 필요). 게임 왼쪽 위 작은 글씨(APP B날짜.시각)가 빌드 번호입니다. 새 버전이 안 받아지면 주소 끝에 `?v=아무숫자`를 붙여 받으세요(10분 캐시).
 
 이 레포에는 빌드 결과물만 있습니다. 그림과 글자까지 전부 코드로 그린 픽셀입니다(Canvas2D + pixelfx).
