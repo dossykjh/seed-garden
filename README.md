@@ -4,4 +4,6 @@
 
 **플레이: https://dossykjh.github.io/seed-garden/**
 
+**안드로이드 앱(홈 화면 위젯·알림): https://dossykjh.github.io/seed-garden/seed-garden.apk** — 폰에서 받아 설치합니다('출처를 알 수 없는 앱' 허용 필요).
+
 이 레포에는 빌드 결과물만 있습니다. 그림과 글자까지 전부 코드로 그린 픽셀입니다(Canvas2D + pixelfx).
